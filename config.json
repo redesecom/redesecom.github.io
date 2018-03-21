@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Curtidas",
-    "colorLabel": "Modularity class",
+    "colorLabel": "Modularity Class",
     "nodeLabel": "Páginas"
   },
   "features": {
